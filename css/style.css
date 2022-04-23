@@ -1361,7 +1361,7 @@ p.center {
   object-fit: contain;
 }
 .nav-section.light {
-  background: #796a5c;
+  background: transparent;
   opacity: 0.8;
   border-bottom: 0;
   -moz-transition: background 0.3s;
@@ -1371,7 +1371,6 @@ p.center {
 }
 .nav-section.light.sticky {
   background: #b59f8a;
-  opacity: 1.0;
 }
 
 /* #Navigation
