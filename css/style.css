@@ -1371,6 +1371,7 @@ p.center {
 }
 .nav-section.light.sticky {
   background: #b59f8a;
+  opacity: 1.0;
 }
 
 /* #Navigation
