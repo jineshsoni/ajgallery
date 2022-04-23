@@ -1361,7 +1361,8 @@ p.center {
   object-fit: contain;
 }
 .nav-section.light {
-  background: transparent;
+  background: #b59f8a;
+  opacity: 0.8;
   border-bottom: 0;
   -moz-transition: background 0.3s;
   -o-transition: background 0.3s;
